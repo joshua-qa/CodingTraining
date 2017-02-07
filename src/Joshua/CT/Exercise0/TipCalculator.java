@@ -1,4 +1,4 @@
-package Joshua.CT.Exercise1;
+package Joshua.CT.Exercise0;
 
 import java.util.Scanner;
 
